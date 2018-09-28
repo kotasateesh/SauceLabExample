@@ -1,2 +1,0 @@
-# SauceLabExample
-For Class Demo
